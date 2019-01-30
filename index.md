@@ -1,3 +1,5 @@
+## ethical meditation | dynamic bodywork | energyflow meditation
+
 ### Header 3
 
 - Bulleted
