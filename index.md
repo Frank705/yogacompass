@@ -1,6 +1,6 @@
 ## ethical reflection | dynamic bodywork | energyflow meditation
 
-### Header 3
+### ethical reflection
 
 - Bulleted
 - List
@@ -12,7 +12,19 @@
 
 [Link](url) and ![Image](src)
 
-### Header 3
+### dynamic bodywork
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+### energyflow meditation
 
 - Bulleted
 - List
