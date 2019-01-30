@@ -1,5 +1,7 @@
 ## ethical reflection | dynamic bodywork | energyflow meditation
 
+
+
 ### ethical reflection
 
 - Bulleted
@@ -10,7 +12,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://upload.wikimedia.org/wikipedia/commons/4/43/Google_Deep_Dream_Image_%2819926204302%29.jpg) and ![Image](src)
 
 ### dynamic bodywork
 
