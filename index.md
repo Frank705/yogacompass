@@ -1,6 +1,6 @@
 ## ethical reflection | dynamic bodywork | energyflow meditation
 
-
+![Image](https://upload.wikimedia.org/wikipedia/commons/e/e6/Raja_vajrasana.jpg) | ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e6/Raja_vajrasana.jpg)
 
 ### ethical reflection
 
