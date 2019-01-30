@@ -6,8 +6,8 @@ Ethical Principles (seq 1) | Life Force Postures (seq 2) | Energyflow Meditation
 ------------ | ------------- | -------------
 Classic Yoga Seat (2 asanas) | Flow Yoga Sequences (1000 asanas) | Classic Yoga Seat (2 asanas)
 Ethical Alignment (10 yamas) | Energy Flow Alignment (uyaji pranayama) | 3rd Eye Focus (kundalini mudra)
-Bodylock Preparation (3 bandhas) | Bodylock Integration (3 bandhas) | Bodylock Execution (kundalini pranayama)
-Spiritual Gesture Integration (100 mudras) | Energy Center Preparation (7 chakras) | Energy Center Meditation (7 chakras)
+Bodylock Preparation (3 bandhas) | Bodylock Integration (3 bandhas) | Energy Center Activation (chakra pranayama)
+Spiritual Gesture Integration (100 mudras) | Energy Center Preparation (7 chakras) | Yoga Energy Flow (kundalini kriya)
 
 ### Part 1 | From Yama to Asana | ethical reflection
 
