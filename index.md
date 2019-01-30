@@ -1,4 +1,4 @@
-## ethical reflection | dynamic bodywork | energyflow meditation
+## Welcome to the bridgetechnique 
 
 Ethical Reflections | Dynamic Sequences | Energyflow Meditation
 ------------ | ------------- | -------------
