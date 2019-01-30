@@ -4,10 +4,10 @@ The Yoga Compass website is a assistant for yoga teachers and self-practitioners
 
 Ethical Principles (seq 1) | Life Force Postures (seq 2) | Energyflow Meditation (seq 3)
 ------------ | ------------- | -------------
-Yama and Asana | Asana and Pranayama | Pranayana and Samyama
-Ethical Focus (10 options) | Flow Yoga Sequences (1000 options) | Dynamic Yoga Energetics
-Bodylock Preparation (3 options) | Chakra Focus (7 options) | Yoga Seat Energetics
-Reflection in Seat (2 options) | Bodylock Sequences | Yoga Meditation Seats (2 options)
+Classic Yoga Seat (2 asanas) | Flow Yoga Sequences (1000 asanas) | Classic Yoga Seat (2 asanas)
+Ethical Alignment (10 yamas) | Energy Flow Alignment (uyaji pranayama) | Dynamic Yoga Energetics (100 kriyas)
+Bodylock Preparation (3 bandhas) | Bodylock Integration (3 bandhas) | Bodylock Execution (kundalini pranayama)
+Spiritual Gesture Integration (100 mudras) | Energy Center Preparation (7 chakras) | Energy Center Meditation (7 chakras)
 
 ### Part 1 | From Yama to Asana | ethical reflection
 
