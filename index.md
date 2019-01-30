@@ -1,7 +1,8 @@
 ## ethical reflection | dynamic bodywork | energyflow meditation
 
-Yama and Asana | Asana and Pranayama | Pranayana and Samyama
+Ethical Reflections | Dynamic Sequences | Energyflow Meditation
 ------------ | ------------- | -------------
+Yama and Asana | Asana and Pranayama | Pranayana and Samyama
 Ethical Focus (10 options) | Flow Yoga Sequences (1000 options) | Dynamic Yoga Energetics
 Bodylock Preparation (3 options) | Chakra Focus (7 options) | Yoga Seat Energetics
 Reflection in Seat (2 options) | Bodylock Sequences | Yoga Meditation Seats (2 options)
