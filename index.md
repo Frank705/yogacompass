@@ -1,4 +1,4 @@
-## Welcome to the bridgetechnique 
+## Welcome to the online yoga technique navigator
 
 Ethical Reflections | Dynamic Sequences | Energyflow Meditation
 ------------ | ------------- | -------------
