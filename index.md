@@ -1,6 +1,6 @@
 ## Welcome to the online yoga technique navigator
 
-Ethical Reflections | Dynamic Sequences | Energyflow Meditation
+Ethical Reflections (step 1) | Dynamic Sequences (stept 2) | Energyflow Meditation (stept 3)
 ------------ | ------------- | -------------
 Yama and Asana | Asana and Pranayama | Pranayana and Samyama
 Ethical Focus (10 options) | Flow Yoga Sequences (1000 options) | Dynamic Yoga Energetics
