@@ -1,6 +1,6 @@
 ## Welcome to the yoga online technique navigator
 
-The Yoga Compass is a web assistant for yoga teachers and self-practitioners. Several techniques have to be sequenced properly, to reflect the ageless spirit in a modern yoga class. Yoga is about increasing the life force and this can lead to abuse, if yoga exercises are performed as standalone techniques without devoting oneself to ethical principles.
+The Yoga Compass website is a assistant for yoga teachers and self-practitioners. Several yoga techniques have to be sequenced properly, to reflect yoga's ageless spirit in a modern class format. Yoga is about increasing the life force and this can lead to abuse, if the yoga exercises are performed as standalone techniques without devoting oneself to ethical principles.
 
 Ethical Reflections (step 1) | Dynamic Sequences (stept 2) | Energyflow Meditation (stept 3)
 ------------ | ------------- | -------------
