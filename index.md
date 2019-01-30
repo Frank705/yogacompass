@@ -2,10 +2,9 @@
 
 Yama and Asana | Asana and Pranayama | Pranayana and Samyama
 ------------ | ------------- | -------------
- | Asana and Pranayama | Pratyahara and Samyama
-Yoga Seat | Dynamic Postures | Content in the second column
-Ethical Reflection | Bodylock Activation | 
-Bodylock Preparation | Synchronous 
+Yoga Reflection Seat (2 options) | Flow Yoga Sequences (1000 options) | Dynamic Yoga Energetics
+Ethical Focus (10 options) | Chakra Focus (7 options) | Yoga Seat Energetics
+Bodylock Preparation (3 options) | Bodylock Sequences | Yoga Meditation Seats (2 options)
 
 ### Part 1 | From Yama to Asana | ethical reflection
 
