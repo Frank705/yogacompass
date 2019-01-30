@@ -1,6 +1,6 @@
 ## Welcome to the yoga online technique navigator
 
-The Yoga Compass is a web assistant for yoga teachers and self practise. 
+The Yoga Compass is a web assistant for yoga teachers and self practise. Several techniques have to be sequenced properly, to capture the traditional spirit in a modern yoga class format. 
 
 Ethical Reflections (step 1) | Dynamic Sequences (stept 2) | Energyflow Meditation (stept 3)
 ------------ | ------------- | -------------
