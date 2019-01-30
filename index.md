@@ -1,4 +1,4 @@
-## ethical meditation | dynamic bodywork | energyflow meditation
+## ethical reflection | dynamic bodywork | energyflow meditation
 
 ### Header 3
 
