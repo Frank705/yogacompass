@@ -6,7 +6,7 @@ The free courseplan optimizer of yogacompass.org is for yoga teachers and self-p
 * [Content Table](https://www.yogacompass.org#content-table)
 * [Ethical Basics for Yoga Postures](https://www.yogacompass.org#Ethical-Basics-for-Yoga-Postures)
 * [Yoga Postures for Energy Center Forces](https://www.yogacompass.org#Yoga-Postures-for-Energy-Center-Forces)
-* [Energy Center Forces for Subtle Yoga Energy Flow](https://www.yogacompass.org#Energy-Center-Forces-for-Subtle-Yoga-Energy-Flow)
+* [Energy Center Forces for Subtle Yoga Meditation](https://www.yogacompass.org#Energy-Center-Forces-for-Subtle-Yoga-Meditation)
 
 ### Content Table
 
@@ -21,4 +21,4 @@ Spiritual Gesture Integration (100 mudras) | Energy Center Preparation (7 chakra
 
 ### Yoga Postures for Energy Center Forces
 
-### Energy Center Forces for Subtle Yoga Energy Flow
+### Energy Center Forces for Yoga Meditation
