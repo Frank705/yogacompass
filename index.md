@@ -10,8 +10,7 @@ The free courseplan optimizer of yogacompass.org is for yoga teachers and self-p
 
 ### Content Table
 
-[Ethical Basics for Yoga Postures](https://www.yogacompass.org#Ethical-Basics-for-Yoga-Postures)
- | Life Force Postures (seq 2) | Energyflow Meditation (seq 3)
+Ethical Basics for Yoga Postures | Yoga Postures for Energy Center Forces | Energy Center Forces for Yoga Meditation
 ------------ | ------------- | -------------
 Classic Yoga Seat (2 asanas) | Flow Yoga Sequences (1000 asanas) | Classic Yoga Seat (2 asanas)
 Ethical Alignment (10 yamas) | Energy Flow Alignment (uyaji pranayama) | 3rd Eye Focus (kundalini mudra)
