@@ -4,21 +4,21 @@ The free courseplan optimizer from yogacompass.org is for yoga teachers and self
 
 ### Content List
 * [Content Table](https://www.yogacompass.org#content-table)
-* [Ethical Basics for Yoga Postures](https://www.yogacompass.org#Ethical-Basics-for-Yoga-Postures)
-* [Yoga Postures for Energy Center Forces](https://www.yogacompass.org#Yoga-Postures-for-Energy-Center-Forces)
-* [Energy Center Forces for Subtle Yoga Meditation](https://www.yogacompass.org#Energy-Center-Forces-for-Subtle-Yoga-Meditation)
+* [Ethical basics for yoga postures](https://www.yogacompass.org#Ethical-basics-for-yoga-postures)
+* [Energy center forces in yoga postures](https://www.yogacompass.org#Energy-center-forces-in-yoga-postures)
+* [Yoga meditation in energy center forces](https://www.yogacompass.org#Yoga-meditation-in-energy-center-forces)
 
 ### Content Table
 
-Ethical Basics for Yoga Postures | Yoga Postures for Energy Center Forces | Energy Center Forces for Yoga Meditation
+Ethical basics for yoga postures | Energy center forces in yoga postures | Yoga meditation in energy center forces
 ------------ | ------------- | -------------
 Classic Yoga Seat (2 asanas) | Flow Yoga Sequences (1000 asanas) | Classic Yoga Seat (2 asanas)
 Ethical Alignment (10 yamas) | Energy Flow Alignment (uyaji pranayama) | 3rd Eye Focus (kundalini mudra)
 Bodylock Preparation (3 bandhas) | Bodylock Integration (3 bandhas) | Energy Center Activation (chakra pranayama)
 Spiritual Gesture Integration (100 mudras) | Energy Center Preparation (7 chakras) | Yoga Energy Flow (kundalini kriya)
 
-### Ethical Basics for Yoga Postures
+### Ethical basics for yoga postures
 
-### Yoga Postures for Energy Center Forces
+### Energy center forces in yoga postures
 
-### Energy Center Forces for Yoga Meditation
+### Yoga meditation in energy center forces
