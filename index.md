@@ -1,16 +1,15 @@
 ## Welcome to the yoga online technique navigator
-
 The free course plan optimizer from yogacompass.org is for yoga teachers and self-practitioners. Several yoga techniques have to be sequenced properly, to reflect the ageless spirit of yoga in a modern class format. Yoga increases the life force and this can be abused, if single yoga techniques are practiced without following ethical principles.
 
 ### Content List
-* [Content Table](https://www.yogacompass.org#content-table)
+* [Table of contents](https://www.yogacompass.org#table-of-contents)
 * [Ethical basics for yoga postures](https://www.yogacompass.org#ethical-basics-for-yoga-postures)
 * [Energy center forces in yoga postures](https://www.yogacompass.org#energy-center-forces-in-yoga-postures)
 * [Yoga meditation in energy center forces](https://www.yogacompass.org#yoga-meditation-in-energy-center-forces)
 
-### Content Table
+### Table of contents
+For the course plan a total of 4 pages is intended. On page 1, an individual selection of yoga technique terms is summarized in a table of contents. The detailed description of selected yoga technique are displayed as separate pages for each column of the content table. For each column of the yoga terms, a detailed description is displayed as a separate page in the course plan.
 
-For the course plan a total of 4 pages is intended. The table of contents is an individual summary at page 1, with the headings of selected yoga techniques. Each column of the table will be displayed on a separate page, with details about the selected yoga techniques.
 
 Ethical basics for yoga postures | Energy center forces in yoga postures | Yoga meditation in energy center forces
 ------------ | ------------- | -------------
