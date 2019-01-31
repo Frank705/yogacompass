@@ -4,9 +4,9 @@ The free courseplan optimizer from yogacompass.org is for yoga teachers and self
 
 ### Content List
 * [Content Table](https://www.yogacompass.org#content-table)
-* [Ethical basics for yoga postures](https://www.yogacompass.org#Ethical-basics-for-yoga-postures)
-* [Energy center forces in yoga postures](https://www.yogacompass.org#Energy-center-forces-in-yoga-postures)
-* [Yoga meditation in energy center forces](https://www.yogacompass.org#Yoga-meditation-in-energy-center-forces)
+* [Ethical basics for yoga postures](https://www.yogacompass.org#ethical-basics-for-yoga-postures)
+* [Energy center forces in yoga postures](https://www.yogacompass.org#energy-center-forces-in-yoga-postures)
+* [Yoga meditation in energy center forces](https://www.yogacompass.org#yoga-meditation-in-energy-center-forces)
 
 ### Content Table
 
