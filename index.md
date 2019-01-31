@@ -4,12 +4,12 @@ The free courseplan optimizer of yogacompass.org is for yoga teachers and self-p
 
 ### Contents
 * [HelloWorld](https://www.yogacompass.org#helloworld)
-* [Yamas pro Asanas (ethical reflection)](https://www.yogacompass.org#yamas-pro-asanas-(ethical-reflection))
+* [Yamas pro Asanas (ethical reflection)](https://www.yogacompass.org#yamas-pro-asanas)
 * Item 2a
   * Item 2b
 
 ### HelloWorld
-### Yamas pro Asanas (ethical reflection)
+### Yamas pro Asanas
 
 Ethical Principles (seq 1) | Life Force Postures (seq 2) | Energyflow Meditation (seq 3)
 ------------ | ------------- | -------------
