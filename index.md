@@ -1,5 +1,5 @@
 ## Welcome to the yoga online technique navigator
-The free course plan optimizer from yogacompass.org is for yoga teachers and self-practitioners. Several yoga techniques have to be sequenced properly, to reflect the ageless spirit of yoga in a modern class format. Yoga increases the life force and this can be abused, if single yoga techniques are practiced without following ethical principles.
+The free course plan optimizer from yogacompass.org is for yoga teachers and self-practitioners. Several yoga techniques require sophisticated sequences, to reflect the timeless wisdom of yoga in a modern course format. Yoga increases the life forces and these can be abused, if single yoga techniques are practiced without following ethical principles.
 
 ### Content List
 * [Table of contents](https://www.yogacompass.org#table-of-contents)
