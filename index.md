@@ -4,7 +4,7 @@ The free courseplan optimizer of yogacompass.org is for yoga teachers and self-p
 
 ### Contents
 * [HelloWorld](https://www.yogacompass.org#helloworld)
-* [Contents](https://www.yogacompass.org#contents)
+* [Part 1 | From Yama to Asana | ethical reflection](https://www.yogacompass.org#part-1)
 * Item 2a
   * Item 2b
 
