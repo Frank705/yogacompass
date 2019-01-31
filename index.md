@@ -4,9 +4,9 @@ The free courseplan optimizer of yogacompass.org is for yoga teachers and self-p
 
 ### Content List
 * [Content Table](https://www.yogacompass.org#content-table)
-* [Yamas pro Asanas](https://www.yogacompass.org#yamas-pro-asanas)
-* Item 2a
-  * Item 2b
+* [Ethical Basics for Yoga Postures](https://www.yogacompass.org#Ethical-Basics-for-Yoga-Postures)
+* [Yoga Postures for Energy Center Forces](https://www.yogacompass.org#Yoga-Postures-for-Energy-Center-Forces)
+* [Energy Center Forces for Subtle Yoga Energy Flow](https://www.yogacompass.org#Energy-Center-Forces-for-Subtle-Yoga-Energy-Flow)
 
 ### Content Table
 
