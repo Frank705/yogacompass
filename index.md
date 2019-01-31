@@ -1,6 +1,6 @@
 ## Welcome to the yoga online technique navigator
 
-The free courseplan optimizer of yogacompass.org is for yoga teachers and self-practitioners. Several yoga techniques have to be sequenced properly, to reflect yoga's ageless spirit in a modern class format. Yoga is about increasing the life force and this can lead to abuse, if the yoga exercises are performed as standalone techniques without devoting oneself to ethical principles.
+The free courseplan optimizer of yogacompass.org is for yoga teachers and self-practitioners. Several yoga techniques have to be sequenced properly, to reflect the ageless spirit of yoga in a modern class format. Yoga is about increasing the life force and this can lead to abuse, if the yoga exercises are performed as standalone techniques without devoting oneself to ethical principles.
 
 Ethical Principles (seq 1) | Life Force Postures (seq 2) | Energyflow Meditation (seq 3)
 ------------ | ------------- | -------------
