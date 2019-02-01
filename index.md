@@ -18,10 +18,7 @@ Bodylock Preparation (3 bandhas) | Bodylock Integration (3 bandhas) | Energy Cen
 Spiritual Gesture Integration (100 mudras) | Energy Center Preparation (7 chakras) | Yoga Energy Flow (kundalini kriya)
 
 ### Ethical basics for yoga postures
-
-yoga-practices The practicing Yoga practi
-
-The course plan will have a total of 4 pages. On the 1st page an individual selection of yoga technique terms is summarized in the table of contents. For each yoga terms column a separate page of the course plan will be displayed, with details about the yoga techniques.
+The goal of yoga is self-realization of personal ideals according to ethical virtues. 
 
 Ethical Japamala (10 yamas) | Energetic Symbolism (100 mudras) | Sanskrit Chanting (100 mantras)
 ------------ | ------------- | -------------
