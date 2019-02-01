@@ -10,12 +10,13 @@ The free course plan optimizer from yogacompass.org is for yoga teachers and sel
 ### Table of contents
 The course plan will have a total of 4 pages. The personal preselection of the yoga terms is shown on page 1 as a summary table. For each column of yoga terms, the details of the preselection are displayed on a separate page of the course plan.
 
-Ethical basics for yoga postures | Energy center forces in yoga postures | Yoga meditation in energy center forces
+Yoga Sutras yamas 1-5 | Yoga Sutras niyamas 6-10  | Other yamas 6 - 10
 ------------ | ------------- | -------------
-Classic Yoga Seat (2 asanas) | Flow Yoga Sequences (1000 asanas) | Classic Yoga Seat (2 asanas)
-Ethical Alignment (10 yamas) | Energy Flow Alignment (uyaji pranayama) | 3rd Eye Focus (kundalini mudra)
-Bodylock Preparation (3 bandhas) | Bodylock Integration (3 bandhas) | Energy Center Activation (chakra pranayama)
-Spiritual Gesture Integration (100 mudras) | Energy Center Preparation (7 chakras) | Yoga Energy Flow (kundalini kriya)
+Ahimsa: Nonviolence | Śauca: purity | Classic Kṣama: forgiveness
+Satya: truthfulness | Santoṣa: contentment | Dhṛti: fortitude
+Asteya: not stealing | Tapas: persistence | Daya: compassion
+Brahmacharya: chastity | Svādhyāya: study of Vedas | Arjava: non-hypocrisy
+Aparigraha: non-avarice | Īśvarapraṇidhāna: contemplation | Mitahara: measured diet
 
 ### Ethical basics for yoga postures
 The goal of yoga is self-realization of personal ideals according to ethical virtues. 
