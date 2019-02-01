@@ -28,8 +28,7 @@ Asteya: not stealing | Tapas: persistence | Daya: compassion
 Brahmacharya: chastity | Svādhyāya: study of Vedas | Arjava: non-hypocrisy
 Aparigraha: non-avarice | Īśvarapraṇidhāna: contemplation | Mitahara: measured diet
 
-
-### Pranayama: Yoga exercises to increase the life forces
+### Pranayama: Extented chakra energetisation in yoga postures
 The course plan will have a total of 4 pages. On the 1st page an individual selection of yoga technique terms is summarized in the table of contents. For each yoga terms column a separate page of the course plan will be displayed, with details about the yoga techniques.
 
 Opening sequences | Yoga postures | Energetic Pranayama
@@ -39,7 +38,7 @@ Ethical Alignment (10 yamas) | Energy Flow Alignment (uyaji pranayama) | 3rd Eye
 Bodylock Preparation (3 bandhas) | Bodylock Integration (3 bandhas) | Energy Center Activation (chakra pranayama)
 Spiritual Gesture Integration (100 mudras) | Energy Center Preparation (7 chakras) | Yoga Energy Flow (kundalini kriya)
 
-### Yoga meditation in energy center forces
+### Samyama: Kundalini Yoga meditation in energy center forces
 The course plan will have a total of 4 pages. On the 1st page an individual selection of yoga technique terms is summarized in the table of contents. For each yoga terms column a separate page of the course plan will be displayed, with details about the yoga techniques.
 
 Closing Sequence | Energetic Kriyas | Kundalini Yoga
