@@ -29,9 +29,9 @@ Brahmacharya: chastity | Svādhyāya: study of Vedas | Arjava: non-hypocrisy
 Aparigraha: non-avarice | Īśvarapraṇidhāna: contemplation | Mitahara: measured diet
 
 ### Pranayama: Chakra energizing in various yoga postures
-The course plan will have a total of 4 pages. On the 1st page an individual selection of yoga technique terms is summarized in the table of contents. For each yoga terms column a separate page of the course plan will be displayed, with details about the yoga techniques.
+The goal of yoga is self-realization of personal ideals according to ethical virtues.
 
-Opening sequences | Yoga postures | Energetic Pranayama
+Lower chakras 1-2 | Middle chakras 3-4 | Higher chakras 5-7
 ------------ | ------------- | -------------
 Classic Yoga Seat (2 asanas) | Flow Yoga Sequences (1000 asanas) | Classic Yoga Seat (2 asanas)
 Ethical Alignment (10 yamas) | Energy Flow Alignment (uyaji pranayama) | 3rd Eye Focus (kundalini mudra)
