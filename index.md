@@ -17,10 +17,10 @@ Ethical Alignment (10 yamas) | Energy Flow Alignment (uyaji pranayama) | 3rd Eye
 Bodylock Preparation (3 bandhas) | Bodylock Integration (3 bandhas) | Energy Center Activation (chakra pranayama)
 Spiritual Gesture Integration (100 mudras) | Energy Center Preparation (7 chakras) | Yoga Energy Flow (kundalini kriya)
 
-### Ethical basics for yoga postures
+### Yamas: Ethical prerequisites for yoga
 The goal of yoga is self-realization of personal ideals according to ethical virtues. 
 
-Yoga Sutras yamas 1-5 | Yoga Sutras niyamas 6-10  | Other yamas 6 - 10
+Ashtanga Yoga 1-5 | Ashtanga Yoga 6-10  | Other Yoga 6 - 10
 ------------ | ------------- | -------------
 Ahimsa: Nonviolence | Śauca: purity | Kṣama: forgiveness
 Satya: truthfulness | Santoṣa: contentment | Dhṛti: fortitude
