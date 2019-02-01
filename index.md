@@ -8,7 +8,7 @@ The free course plan optimizer from yogacompass.org is for yoga teachers and sel
 * [Yoga meditation in energy center forces](https://www.yogacompass.org#yoga-meditation-in-energy-center-forces)
 
 ### Table of contents
-The course plan will have a total of 4 pages. On the 1st page an individual selection of yoga technique terms is summarized in the table of contents. For each column with yoga terms, a separate page of the course plan will display the details of these yoga techniques.
+The course plan will have a total of 4 pages. A personal preselection of the yoga terms is shown on page 1 as a summary table. For each column with yoga terms, a separate page of the course plan will display the details of these yoga techniques.
 
 Ethical basics for yoga postures | Energy center forces in yoga postures | Yoga meditation in energy center forces
 ------------ | ------------- | -------------
