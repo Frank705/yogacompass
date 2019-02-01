@@ -18,6 +18,12 @@ Bodylock Preparation (3 bandhas) | Bodylock Integration (3 bandhas) | Energy Cen
 Spiritual Gesture Integration (100 mudras) | Energy Center Preparation (7 chakras) | Yoga Energy Flow (kundalini kriya)
 
 ### Ethical basics for yoga postures
+Ethical Japamala (10 yamas) | Energetic Symbolism (100 mudras) | Sanskrit Chanting (100 mantras)
+------------ | ------------- | -------------
+Classic Yoga Seat (2 asanas) | Flow Yoga Sequences (1000 asanas) | Classic Yoga Seat (2 asanas)
+Ethical Alignment (10 yamas) | Energy Flow Alignment (uyaji pranayama) | 3rd Eye Focus (kundalini mudra)
+Bodylock Preparation (3 bandhas) | Bodylock Integration (3 bandhas) | Energy Center Activation (chakra pranayama)
+Spiritual Gesture Integration (100 mudras) | Energy Center Preparation (7 chakras) | Yoga Energy Flow (kundalini kriya)
 
 ### Energy center forces in yoga postures
 
