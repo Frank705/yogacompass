@@ -22,7 +22,7 @@ The goal of yoga is self-realization of personal ideals according to ethical vir
 
 Yoga Sutras yamas 1-5 | Yoga Sutras niyamas 6-10  | Other yamas 6 - 10
 ------------ | ------------- | -------------
-Ahimsa: Nonviolence | Śauca: purity | Classic Kṣama: forgiveness
+Ahimsa: Nonviolence | Śauca: purity | Kṣama: forgiveness
 Satya: truthfulness | Santoṣa: contentment | Dhṛti: fortitude
 Asteya: not stealing | Tapas: persistence | Daya: compassion
 Brahmacharya: chastity | Svādhyāya: study of Vedas | Arjava: non-hypocrisy
