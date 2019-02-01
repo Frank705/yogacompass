@@ -29,7 +29,7 @@ Brahmacharya: chastity | Svādhyāya: study of Vedas | Arjava: non-hypocrisy
 Aparigraha: non-avarice | Īśvarapraṇidhāna: contemplation | Mitahara: measured diet
 
 
-### Energy center forces in yoga postures
+### Pranayama: Yoga exercises to increase the life forces
 The course plan will have a total of 4 pages. On the 1st page an individual selection of yoga technique terms is summarized in the table of contents. For each yoga terms column a separate page of the course plan will be displayed, with details about the yoga techniques.
 
 Opening sequences | Yoga postures | Energetic Pranayama
